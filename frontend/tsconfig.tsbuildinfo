@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/charts/RiskChart.tsx","./src/components/BreachTable.tsx","./src/components/DomainPanel.tsx","./src/components/GravatarCard.tsx","./src/components/ReportExport.tsx","./src/components/SearchBar.tsx","./src/components/SearchResults.tsx","./src/components/UsernameList.tsx","./src/lib/api.ts","./src/lib/utils.ts"],"version":"5.9.3"}

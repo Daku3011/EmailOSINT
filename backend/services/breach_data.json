@@ -1,0 +1,296 @@
+[
+  {
+    "Name": "Adobe",
+    "Domain": "adobe.com",
+    "BreachDate": "2013-10-04",
+    "DataClasses": ["Email addresses", "Password hints", "Passwords"],
+    "Description": "In October 2013, 153 million Adobe accounts were breached"
+  },
+  {
+    "Name": "LinkedIn",
+    "Domain": "linkedin.com",
+    "BreachDate": "2012-05-01",
+    "DataClasses": ["Email addresses", "Passwords"],
+    "Description": "In May 2012, LinkedIn suffered a data breach"
+  },
+  {
+    "Name": "Dropbox",
+    "Domain": "dropbox.com",
+    "BreachDate": "2012-07-01",
+    "DataClasses": ["Email addresses", "Passwords"],
+    "Description": "In mid-2012, Dropbox suffered a data breach"
+  },
+  {
+    "Name": "Facebook",
+    "Domain": "facebook.com",
+    "BreachDate": "2019-09-01",
+    "DataClasses": ["Phone numbers", "Email addresses", "User IDs"],
+    "Description": "In September 2019, a Facebook data breach exposed data"
+  },
+  {
+    "Name": "GitHub",
+    "Domain": "github.com",
+    "BreachDate": "2020-12-01",
+    "DataClasses": ["Email addresses"],
+    "Description": "In December 2020, GitHub notified users of a data exposure"
+  },
+  {
+    "Name": "Twitter",
+    "Domain": "twitter.com",
+    "BreachDate": "2018-05-01",
+    "DataClasses": ["Email addresses", "Passwords"],
+    "Description": "In May 2018, Twitter asked users to change passwords due to a bug"
+  },
+  {
+    "Name": "Canva",
+    "Domain": "canva.com",
+    "BreachDate": "2019-05-24",
+    "DataClasses": ["Email addresses", "Names", "Usernames"],
+    "Description": "In May 2019, 139 million Canva accounts were breached"
+  },
+  {
+    "Name": "Evite",
+    "Domain": "evite.com",
+    "BreachDate": "2019-02-01",
+    "DataClasses": ["Email addresses", "Names", "Phone numbers", "Passwords"],
+    "Description": "In February 2019, Evite suffered a data breach"
+  },
+  {
+    "Name": "MyFitnessPal",
+    "Domain": "myfitnesspal.com",
+    "BreachDate": "2018-02-01",
+    "DataClasses": ["Email addresses", "Passwords", "Usernames"],
+    "Description": "In February 2018, MyFitnessPal suffered a data breach"
+  },
+  {
+    "Name": "Zynga",
+    "Domain": "zynga.com",
+    "BreachDate": "2019-09-01",
+    "DataClasses": ["Email addresses", "Passwords", "Phone numbers"],
+    "Description": "In September 2019, Zynga suffered a data breach"
+  },
+  {
+    "Name": "Collection #1",
+    "Domain": "",
+    "BreachDate": "2019-01-01",
+    "DataClasses": ["Email addresses", "Passwords"],
+    "Description": "A collection of 1.2 billion unique email addresses"
+  },
+  {
+    "Name": "HaveIBeenPwned",
+    "Domain": "haveibeenpwned.com",
+    "BreachDate": "2020-04-01",
+    "DataClasses": ["Email addresses"],
+    "Description": "A breach of the HIBP service itself"
+  },
+  {
+    "Name": "NVIDIA",
+    "Domain": "nvidia.com",
+    "BreachDate": "2022-02-01",
+    "DataClasses": ["Email addresses", "Employee credentials"],
+    "Description": "In February 2022, NVIDIA suffered a data breach"
+  },
+  {
+    "Name": "RockYou2021",
+    "Domain": "",
+    "BreachDate": "2021-06-01",
+    "DataClasses": ["Passwords", "Email addresses"],
+    "Description": "A collection of 8.4 billion passwords leaked online"
+  },
+  {
+    "Name": "Neopets",
+    "Domain": "neopets.com",
+    "BreachDate": "2021-01-01",
+    "DataClasses": ["Email addresses", "Names", "Postal addresses"],
+    "Description": "In January 2021, Neopets data was leaked"
+  },
+  {
+    "Name": "Twitch",
+    "Domain": "twitch.tv",
+    "BreachDate": "2021-10-01",
+    "DataClasses": ["Email addresses", "Source code", "Payout data"],
+    "Description": "In October 2021, Twitch suffered a massive data breach"
+  },
+  {
+    "Name": "Robinhood",
+    "Domain": "robinhood.com",
+    "BreachDate": "2021-11-01",
+    "DataClasses": ["Email addresses", "Names"],
+    "Description": "In November 2021, Robinhood suffered a data breach"
+  },
+  {
+    "Name": "Gmail",
+    "Domain": "gmail.com",
+    "BreachDate": "2014-09-01",
+    "DataClasses": ["Email addresses", "Passwords"],
+    "Description": "In September 2014, nearly 5 million Gmail passwords leaked"
+  },
+  {
+    "Name": "Yahoo",
+    "Domain": "yahoo.com",
+    "BreachDate": "2013-08-01",
+    "DataClasses": ["Email addresses", "Names", "Phone numbers", "Security questions"],
+    "Description": "In 2013, all 3 billion Yahoo accounts were breached"
+  },
+  {
+    "Name": "Microsoft",
+    "Domain": "microsoft.com",
+    "BreachDate": "2021-03-01",
+    "DataClasses": ["Email addresses", "Source code"],
+    "Description": "In March 2021, Microsoft suffered an Exchange Server breach"
+  },
+  {
+    "Name": "AT&T",
+    "Domain": "att.com",
+    "BreachDate": "2024-03-01",
+    "DataClasses": ["Email addresses", "Passcodes"],
+    "Description": "In March 2024, AT&T confirmed a data breach affecting millions"
+  },
+  {
+    "Name": "Ticketmaster",
+    "Domain": "ticketmaster.com",
+    "BreachDate": "2024-05-01",
+    "DataClasses": ["Email addresses", "Names", "Phone numbers", "Payment info"],
+    "Description": "In May 2024, Ticketmaster suffered a major data breach"
+  },
+  {
+    "Name": "Dell",
+    "Domain": "dell.com",
+    "BreachDate": "2024-05-01",
+    "DataClasses": ["Email addresses", "Names"],
+    "Description": "In May 2024, Dell reported a data breach of customer information"
+  },
+  {
+    "Name": "Snowflake",
+    "Domain": "snowflake.com",
+    "BreachDate": "2024-06-01",
+    "DataClasses": ["Email addresses", "Customer data"],
+    "Description": "In June 2024, Snowflake customers were affected by credential theft"
+  },
+  {
+    "Name": "National Public Data",
+    "Domain": "",
+    "BreachDate": "2024-04-01",
+    "DataClasses": ["Email addresses", "Names", "Social Security numbers"],
+    "Description": "In 2024, a background check data broker suffered a massive breach"
+  },
+  {
+    "Name": "Telegram",
+    "Domain": "telegram.org",
+    "BreachDate": "2024-07-01",
+    "DataClasses": ["Phone numbers", "Email addresses"],
+    "Description": "In 2024, Telegram data was found in intelligence databases"
+  },
+  {
+    "Name": "Gravatar",
+    "Domain": "gravatar.com",
+    "BreachDate": "2020-10-01",
+    "DataClasses": ["Email addresses"],
+    "Description": "In October 2020, Gravatar was used to scrape email addresses"
+  },
+  {
+    "Name": "Discord",
+    "Domain": "discord.com",
+    "BreachDate": "2023-08-01",
+    "DataClasses": ["Email addresses", "User data"],
+    "Description": "In August 2023, Discord suffered a data breach via a third-party vendor"
+  },
+  {
+    "Name": "23andMe",
+    "Domain": "23andme.com",
+    "BreachDate": "2023-10-01",
+    "DataClasses": ["Email addresses", "Genetic data", "Names"],
+    "Description": "In October 2023, 23andMe suffered a credential-stuffing breach"
+  },
+  {
+    "Name": "GitLab",
+    "Domain": "gitlab.com",
+    "BreachDate": "2023-05-01",
+    "DataClasses": ["Email addresses", "User data"],
+    "Description": "In May 2023, GitLab suffered a data breach"
+  },
+  {
+    "Name": "Reddit",
+    "Domain": "reddit.com",
+    "BreachDate": "2023-02-01",
+    "DataClasses": ["Email addresses", "User data"],
+    "Description": "In February 2023, Reddit suffered a data breach"
+  },
+  {
+    "Name": "T-Mobile",
+    "Domain": "t-mobile.com",
+    "BreachDate": "2023-01-01",
+    "DataClasses": ["Email addresses", "Names", "Phone numbers"],
+    "Description": "In January 2023, T-Mobile suffered yet another data breach"
+  },
+  {
+    "Name": "LastPass",
+    "Domain": "lastpass.com",
+    "BreachDate": "2022-08-01",
+    "DataClasses": ["Email addresses", "Encrypted vaults"],
+    "Description": "In August 2022, LastPass suffered a major data breach"
+  },
+  {
+    "Name": "Uber",
+    "Domain": "uber.com",
+    "BreachDate": "2022-09-01",
+    "DataClasses": ["Email addresses", "Names", "Phone numbers"],
+    "Description": "In September 2022, Uber was breached by a social engineering attack"
+  },
+  {
+    "Name": "Optus",
+    "Domain": "optus.com.au",
+    "BreachDate": "2022-09-01",
+    "DataClasses": ["Email addresses", "Names", "Phone numbers", "Passport numbers"],
+    "Description": "In September 2022, Optus suffered a massive data breach"
+  },
+  {
+    "Name": "Medibank",
+    "Domain": "medibank.com.au",
+    "BreachDate": "2022-10-01",
+    "DataClasses": ["Email addresses", "Names", "Health claims data"],
+    "Description": "In October 2022, Medibank suffered a ransomware data breach"
+  },
+  {
+    "Name": "Marriott",
+    "Domain": "marriott.com",
+    "BreachDate": "2018-11-01",
+    "DataClasses": ["Email addresses", "Names", "Passport numbers", "Phone numbers"],
+    "Description": "In November 2018, Marriott disclosed a massive data breach"
+  },
+  {
+    "Name": "Equifax",
+    "Domain": "equifax.com",
+    "BreachDate": "2017-09-01",
+    "DataClasses": ["Email addresses", "Names", "Social Security numbers"],
+    "Description": "In September 2017, Equifax suffered a massive data breach"
+  },
+  {
+    "Name": "eBay",
+    "Domain": "ebay.com",
+    "BreachDate": "2014-05-01",
+    "DataClasses": ["Email addresses", "Names", "Passwords"],
+    "Description": "In May 2014, eBay suffered a data breach affecting 145 million users"
+  },
+  {
+    "Name": "Sony",
+    "Domain": "sony.com",
+    "BreachDate": "2011-04-01",
+    "DataClasses": ["Email addresses", "Names", "Passwords"],
+    "Description": "In April 2011, Sony PlayStation Network was breached"
+  },
+  {
+    "Name": "Target",
+    "Domain": "target.com",
+    "BreachDate": "2013-12-01",
+    "DataClasses": ["Email addresses", "Payment info", "Names"],
+    "Description": "In December 2013, Target suffered a massive credit card breach"
+  },
+  {
+    "Name": "Home Depot",
+    "Domain": "homedepot.com",
+    "BreachDate": "2014-09-01",
+    "DataClasses": ["Email addresses", "Payment info"],
+    "Description": "In September 2014, Home Depot suffered a data breach"
+  }
+]
